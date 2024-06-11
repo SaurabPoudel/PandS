@@ -1,0 +1,23 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (MacOS)
+.DS_Store
+
+# Ignore Excel backup files
+*.xls~
+
+# Ignore any other backup files
+*~
+
+# Ignore data files
+*.csv
+*.xls
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
